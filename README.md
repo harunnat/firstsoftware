@@ -1,1 +1,2 @@
 # firstsoftware
+Basit bankamatik kodu.
