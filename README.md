@@ -1,7 +1,7 @@
 # firstsoftware
 
 Basit bankamatik kodu.
-not:yönetici için şifre istiyecek .şifre kodunde içine mevcut.
+not:yönetici için şifre istiyecek .şifre kodun içinde mevcut.
 
 ## Geliştirici  ve Özel Teşekkür
 
